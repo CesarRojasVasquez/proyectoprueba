@@ -6,8 +6,8 @@
 </head>
 
 <body>
-    <h1>Bienvenido </h1>
-    <a href="pagina.php">Ventana 2</a>
+    <h1>Bienvenido   Victorcix</h1>
+    
 </body>
 
 </html>
